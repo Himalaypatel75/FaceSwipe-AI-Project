@@ -39,3 +39,5 @@ The real magic happens when we employ the [inswapper_128.onnx](https://github.co
 While this project is a fascinating exploration of AI and computer vision, please use it responsibly and respect privacy and ethical considerations when working with images of individuals.
 
 Happy Face Swapping! 🌟
+
+Important! - download **inswapper_128.onnx** this file from https://www.reddit.com/r/midjourney/comments/13pnraj/please_reupload_inswapper_128onnx/
